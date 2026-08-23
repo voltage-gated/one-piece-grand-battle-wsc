@@ -32,7 +32,7 @@
 
 ## 릴리즈
 
-[릴리즈 목록](https://github.com/voltage-gated/one-piece-grand-battle-wsc/releases)
+[한글패치 다운로드](https://github.com/voltage-gated/one-piece-grand-battle-wsc/releases)
 
 각 릴리즈에서 해당 버전의 패치 파일, 세이브 파일, 적용 방법, 호환 정보, 체크섬 및 변경점을 확인할 수 있습니다.
 
